@@ -2,7 +2,7 @@
 <html lang="ja">
     <head>
         <meta charset="UTF-8">
-        <titile>初めてのPHP</titile>
+        <title>初めてのPHP</title>
     </head>
     <body>
         <?php
